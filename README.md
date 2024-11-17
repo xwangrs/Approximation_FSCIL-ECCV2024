@@ -4,7 +4,9 @@
 ***If you have any questions about the code or the papers, please feel free to contact me.***
 
 [1] Wang X, Ji Z, Liu X, et al. On the Approximation Risk of Few-Shot Class-Incremental Learning[C]//European Conference on Computer Vision. Springer, Cham, 2025: 162-178.
+
 [2] Wang X, Ji Z, Yu Y, et al. Model Attention Expansion for Few-Shot Class-Incremental Learning[J]. IEEE Transactions on Image Processing, 2024, 33: 4419 - 4431.
+
 [3] Wang X, Ji Z, Pang Y, et al. A cognition-driven framework for few-shot class-incremental learning[J]. Neurocomputing, 2024, 600: 128118.
 
 
